@@ -100,7 +100,7 @@ function App() {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  www.shoolinconsultancy.in
+                  www.shoolinconsultancy.org
                 </a>
               </span>
               , you acknowledge and confirm that you are seeking information
