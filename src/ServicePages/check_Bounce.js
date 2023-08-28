@@ -1,5 +1,5 @@
 import React from "react";
-import Img from "../img/Check_Bounce.jpg";
+import Img from "../img/ChequeBounce.jpg";
 
 
 const check_Bounce = () => {
