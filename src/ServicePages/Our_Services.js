@@ -34,7 +34,7 @@ function ResponsiveExample() {
                 </p>
 
                 <p></p>
-                <Link to="/contact_us">
+                <Link to="/contactUs">
                   <a className="btn" href="">
                     contact us
                   </a>

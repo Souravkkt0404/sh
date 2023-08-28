@@ -21,7 +21,7 @@ export const ServiceCards = [
       image: img2,
       title: 'Criminal Law',
       desc: 'Every individual deserves a staunch defender in the face of criminal charges. Our seasoned team in criminal law stands firm for justice, ensuring your rights are upheld and your side of the story is heard.',
-      to: '/criminalcases',
+      to: '/criminalCase',
     },
     {
       id: 3,
@@ -37,7 +37,7 @@ export const ServiceCards = [
       image: img4,
       title: 'Cyber Law',
       desc: 'In the evolving realm of the digital world, our cyber law specialists are committed to protecting your digital rights, ensuring your safety against cyber threats, and offering comprehensive solutions for online disputes.',
-      to: '/cybercrime',
+      to: '/cyberCrime',
     },
     {
       id: 5,
@@ -53,7 +53,7 @@ export const ServiceCards = [
       image: img6,
       title: 'Cheque Bounce',
       desc: "In this digital age, a bounced cheque can tarnish one's financial reputation. We stand by your side, offering robust legal defense in cheque bounce disputes, safeguarding both your funds and your reputation.",
-      to: '/checkbounce',
+      to: '/chequeBounce',
     },
   ];
   

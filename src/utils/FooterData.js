@@ -42,7 +42,7 @@ export const serviceAreas = [
     },
     {
         label: "Criminal Cases",
-        to: "/criminalcases"
+        to: "/criminalCase"
     },
     {
         label: "NDPS",
@@ -50,7 +50,7 @@ export const serviceAreas = [
     },
     {
         label: "Cyber Crime",
-        to: "/cybercrime"
+        to: "/cyberCrime"
     },
     {
         label: "Property Verification",
@@ -58,7 +58,7 @@ export const serviceAreas = [
     },
     {
         label: "Cheque Bounce",
-        to: "/checkbounce"
+        to: "/chequeBounce"
     }
 ];
 

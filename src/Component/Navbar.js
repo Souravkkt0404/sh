@@ -216,7 +216,7 @@ const Navbar = () => {
                     Testimonials
                   </Link>
                   <Link
-                    to="/contact_us"
+                    to="/contactUs"
                     onClick={handleTopBtnClick}
                     href=""
                     className="nav-item nav-link"

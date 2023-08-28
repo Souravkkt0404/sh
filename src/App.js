@@ -60,13 +60,13 @@ function App() {
             <Whatsapp />
             <Routes>
                 <Route path="/" element={<Home />} />
-                <Route path="/contact_us" element={<Contact_Us />} />
+                <Route path="/contactUs" element={<Contact_Us />} />
                 <Route path="/about" element={<About />} />
                 <Route path="/testimonials" element={<Testimonials />} />
                 <Route path="/ourServices" element={<Our_Services />} />
-                <Route path="/checkbounce" element={<Check_Bounce />} />
-                <Route path="/criminalcases" element={<Criminal_Cases />} />
-                <Route path="/cybercrime" element={<Cyber_Crime />} />
+                <Route path="/chequeBounce" element={<Check_Bounce />} />
+                <Route path="/criminalCase" element={<Criminal_Cases />} />
+                <Route path="/cyberCrime" element={<Cyber_Crime />} />
                 <Route path="/divorce" element={<Divvorce_Matter />} />
                 <Route path="/ndps" element={<Ndps />} />
                 <Route
